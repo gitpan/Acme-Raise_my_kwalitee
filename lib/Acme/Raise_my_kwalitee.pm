@@ -3,7 +3,7 @@ package Acme::Raise_my_kwalitee;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 # Preloaded methods go here.
@@ -13,7 +13,7 @@ __END__
 
 =head1 NAME
 
-Acme::Raise_my_kwalitee - Perl extension for blah blah blah
+Acme::Raise_my_kwalitee - Raising my (and others) kwalitee on CPANTS
 
 =head1 SYNOPSIS
 
@@ -32,7 +32,7 @@ CPANTS
 
 =head1 APOLOGIES
 
-To domm.
+To Thomas Klausner <domm@zsi.at> http://domm.zsi.at
 
 =head1 AUTHOR
 
